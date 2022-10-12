@@ -29,9 +29,6 @@ int main()
     cin>>n;
     int k=0;
     for(i=3; i<=n; i++){
-        if(a[i-1]+a[i-2]>n){
-            break;
-        }
         a[i]=a[i-1]+a[i-2];
         k++;
     }
