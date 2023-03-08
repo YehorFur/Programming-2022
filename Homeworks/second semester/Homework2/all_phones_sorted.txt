@@ -1,0 +1,7 @@
+Nokia 3310 0
+Motorola XPR6550 0
+Moto Motorola 299.99
+Galaxy Samsung 799.99
+Pixel Google 899.99
+iPhone Apple 999.99
+Total amount: 2999.96
